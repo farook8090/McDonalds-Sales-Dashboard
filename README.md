@@ -1,6 +1,9 @@
+
 # 🍔 McDonald's Sales Dashboard
 
 An interactive and dynamic Excel dashboard built using McDonald’s sales dataset to analyze sales performance, item popularity, customer preferences, and time-based trends. The project provides actionable insights for data-driven decision-making.
+
+![Main page dashboard](https://github.com/farook8090/McDonalds-Sales-Dashboard/blob/4db07d0ffbc7d0687bf400ab11418997a5daaf21/Final.png)
 
 # 📊 Project Overview
 
